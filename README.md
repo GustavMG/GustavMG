@@ -42,10 +42,10 @@
 
 - 🔧 &nbsp; ReactJS |  AWS | Firebase
 
-<hr>
+<!--<hr>
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavMG&show_icons=true&theme=dark)](https://github.com/shivam0110)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavMG&show_icons=true&theme=dark)](https://github.com/shivam0110) -->
 
 <br/>
 
